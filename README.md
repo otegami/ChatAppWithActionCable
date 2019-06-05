@@ -9,5 +9,4 @@
   <li>＃　←　の部分に入力したいワードを入れるとブラウザ上で、入力された言葉が確認できます。</li>
 </ul> 
 <br>
-<br>
 <a>https://qiita.com/sasurai_usagi3/items/75a30cc0d2d0faa9dfe8</a>
